@@ -1,2 +1,6 @@
 .DS_Store
 node_modules/
+
+# written by the Herdr app into any mod folder it loads
+mods/*/gpui-kit.d.ts
+mods/*/jsconfig.json
